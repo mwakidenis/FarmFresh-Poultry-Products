@@ -320,8 +320,6 @@ This project is proprietary software owned by FarmFresh Poultry. All rights rese
 
 Visit our website and try the new **AI Assistant Chat Widget**! 🤖✨
 
-**Made with ❤️ by the FarmFresh Poultry Team in Kenya** 🇰🇪
-
 ### 📱 **Screenshots**
 
 #### Desktop View
@@ -337,7 +335,4 @@ Visit our website and try the new **AI Assistant Chat Widget**! 🤖✨
 
 ---
 
-**🎉 Thank you for choosing FarmFresh Poultry for all your poultry needs! 🐔🥚🍗**
-##**Made with ❤️ by Mwaki Denis**
-**Supporting**
-##[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=plastic)](https://wa.me/254798750585)
+**Made with ❤️ by Mwaki Denis | Supporting**##[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%F0%9F%8D%B5-yellow?style=plastic)](https://wa.me/254798750585)
